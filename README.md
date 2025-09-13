@@ -1,6 +1,5 @@
 # 🚀 DataDrip 2025 Hackathon — Power BI Case Study (Top 30)
 
-**Repository name (recommended):** `data-drip-2025-powerbi-dashboard`
 
 **Short description:**  
 This repository contains my full submission for the **Data Drip 2025 Hackathon** (organized and supervised by **Qafza**) where I was proud to be ranked among the **Top 30 participants**.  
